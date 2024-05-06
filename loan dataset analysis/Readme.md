@@ -46,7 +46,7 @@ Data set is taken from : https://datahack.analyticsvidhya.com/contest/practice-p
 
    - Violin Plot to show the distribution of Loan Amount by Property Area and Loan Status based -
 
-  ![Violin1](https://github.com/iam-harshitha/End-to-End-Data-Science-projects/assets/142524750/bf570a7b-fc57-41bc-a009-b4f075be5807)
+    ![Violin1](https://github.com/iam-harshitha/End-to-End-Data-Science-projects/assets/142524750/bf570a7b-fc57-41bc-a009-b4f075be5807)
 
    - Line plot to show the correlation between ApplicantIncome and LoanAmount -
 
